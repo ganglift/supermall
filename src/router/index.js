@@ -1,4 +1,4 @@
-import Vue from 'veu'
+import Vue from 'vue'
 import VueRouter from 'vue-router'
 
 //设置懒加载
