@@ -12,7 +12,7 @@ export default {
     name: "Scroll",
     data() {
         return {
-            // scroll: null
+            scroll: null
         }
     },
     mounted() {
@@ -28,7 +28,7 @@ export default {
 </script>
 
 <style scoped>
-    /* .wrapper {
+    .wrapper {
         height: 300px;
-    } */
+    }
 </style>

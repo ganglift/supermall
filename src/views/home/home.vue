@@ -47,6 +47,7 @@
             return{
                 banners: [],
                 recommends: [],
+                //3-1设计数据结构，保存数据
                 goods: {
                     'pop': {page: 0, list: []},
                     'new': {page: 0, list: []},
